@@ -1,0 +1,82 @@
+    body
+    {
+        background-color: powderblue;
+    }
+    h1
+    {
+         font-style: italic;
+         font-size: 12;
+         display: block;
+         color:royalblue;
+    }
+    hr
+    {
+        border-style: none;
+        border-color:rebeccapurple ;
+        border-top-style:ridge ;
+        border-width:20px ;
+         
+    }
+    .ourimg
+    {
+        display: block;
+        border-radius: 50%;
+        height: 140px;
+        border: 8;
+        text-decoration: none;
+        
+    }
+    .ourimg:hover
+    {
+        image-rendering: optimizeQuality;
+    }
+    .companyImg
+    {
+        display: block;
+        border-radius: 50%;
+        height: 60px;
+    }
+    h2
+    {
+         font-style: italic;
+         font-size: 10;
+         display: block;
+         color:royalblue;
+    }    
+    .upcontainer
+    {
+        
+        width: 800px;
+        height: 800px;
+        top: 820px;
+        position: relative;
+        left: 12px;
+    }
+    .downcontainer
+    {
+        
+        width: 800px;
+        height: 800px;
+        position: relative;
+        left: 800px;
+        margin: 12px;
+    }
+    .navbar h2
+    {
+       color: white;
+          
+    }
+    .navbar li
+    {
+        list-style: none;
+    }
+    .navbar ul
+    {
+        overflow: auto;
+    }
+    .navbar 
+    {
+       background-color: darkblue;       
+    }
+
+    
